@@ -1,0 +1,11 @@
+---
+title: "Gapminder Report"
+output: html_document
+params: 
+  continent: Europe
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
